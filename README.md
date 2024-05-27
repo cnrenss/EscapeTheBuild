@@ -3,6 +3,7 @@
  ## _Oyun Videosu_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/i1Gfuu4y2V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## _Başlangıç Ekranı_
 
 ![Baslangıc](https://i.hizliresim.com/ky22x1x.png)
