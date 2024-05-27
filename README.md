@@ -2,7 +2,7 @@
 - Bu oyun bir işletmenin işe alım sürecinde, başvuru yapan kişilerin işlem, hafıza ve dikkat yeteneklerini ölçmek için yapılmıştır. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri Final ödevidir.
  ## _Oyun Videosu_
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/i1Gfuu4y2V0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Tanıtım Videosu](https://img.youtube.com/vi/i1Gfuu4y2V0/0.jpg)](https://www.youtube.com/watch?v=i1Gfuu4y2V0)
 
 ## _Başlangıç Ekranı_
 
