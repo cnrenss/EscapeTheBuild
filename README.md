@@ -1,5 +1,9 @@
 # ESCAPE THE BUİLD!
+## _Oyunun Amacı_
+
 - Bu oyun bir işletmenin işe alım sürecinde, başvuru yapan kişilerin işlem, hafıza ve dikkat yeteneklerini ölçmek için yapılmıştır. Bursa Uludağ Üniversitesi Yönetim Bilişim Sistemleri Final ödevidir.
+- Oyuna başlandığında karakterimiz kendini bilmediği bir otramda bulur ve buradançıkamaz. O ortamda bulunan yabancı bir kadınla konuşur ve nasıl çıkması gerektiğini öğrenir. Çıkabilmek için kitabın içindeki soruları çözmesi gerekmektedir. Kullanıcı soruları tamamladığında oyun sonlanır. Yeteneklerinden aldığı puanlar ekranda gösterilir ve bir veda müziği ile karakterimiz dans eder.
+  
  ## _Oyun Videosu_
 
 [![Tanıtım Videosu](https://img.youtube.com/vi/i1Gfuu4y2V0/0.jpg)](https://www.youtube.com/watch?v=i1Gfuu4y2V0)
